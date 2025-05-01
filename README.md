@@ -4,31 +4,19 @@ I'm a backend-focused developer currently transitioning from coffee industry int
 
 ---
 
-## 🚀 Projects
-
-### [Expenser](https://github.com/gurdeepkumar/Expenser)
-A personal expense tracker web application built with Django and Bootstrap. It allows users to manage their expenses, view reports, and export data in CSV, PDF, and Excel formats. Features include user authentication, CRUD operations, filtering, and sorting.
-🔗 [Live Demo](https://expenser.gurdeepkumar.com):contentReference[oaicite:6]{index=6}
-
-### [UrlShorty](https://github.com/gurdeepkumar/UrlShorty)
-:contentReference[oaicite:8]{index=8}
-🔗 [Live Demo](https://urlshorty.gurdeepkumar.com):contentReference[oaicite:10]{index=10}
-
----
-
 ## 🛠️ Tech Stack
 
-- **Languages & Frameworks**: :contentReference[oaicite:12]{index=12}
-- **Databases**: :contentReference[oaicite:15]{index=15}
-- **Frontend**: :contentReference[oaicite:18]{index=18}
-- **DevOps & Tools**: :contentReference[oaicite:21]{index=21}:contentReference[oaicite:23]{index=23}
+- **Languages & Frameworks**: Python, Django, FastAPI, Git
+- **Databases**: PostgreSQL
+- **Frontend**: Bootstrap, Tailwind
+- **DevOps & Tools**: Nginx, AWS
 
 ---
 
 ## 🌐 More About Me
 
 - 🔗 [Portfolio Website](https://gurdeepkumar.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/gurdeep-kumar-8285ba235)
+- 💼 [LinkedIn](https://www.linkedin.com/in/gurdeep-kumar/)
 - 📧 [Email](mailto:gksyntax@hotmail.com)
 
 ---
