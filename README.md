@@ -6,10 +6,10 @@ I'm a backend-focused developer currently transitioning from coffee industry int
 
 ## 🛠️ Tech Stack
 
-- **Languages & Frameworks**: Python, Django, FastAPI, Git
+- **Languages & Frameworks**: Python, Django, FastAP
 - **Databases**: PostgreSQL
 - **Frontend**: Bootstrap, Tailwind
-- **DevOps & Tools**: Nginx, AWS
+- **DevOps & Tools**: Git, Nginx, AWS
 
 ---
 
