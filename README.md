@@ -1,15 +1,16 @@
 ## 👋 Hello, world
 
-I'm a backend-focused developer currently transitioning from coffee industry into the tech world, actively building projects and working toward my first developer role. My journey began with C and C++ in school, followed by a 3-year diploma in Computer Science. In 2020, driven by my passion for networking, I earned the CCNA certification. In January 2025, I decided to return to tech, completed Harvard's CS50 Python course on edX, and have since been building backend-focused projects that showcase my technical foundation.
+I'm a software developer currently transitioning from coffee industry into the tech world, actively building projects and working toward my first developer role. My journey began with C and C++ in school, followed by a 3-year diploma in Computer Science. In 2020, I earned the CCNA certification. In January 2025, I decided to return to tech, completed Harvard's CS50 Python course on edX, and have since been building projects.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages & Frameworks**: Python, Django, FastAP
-- **Databases**: PostgreSQL
-- **Frontend**: Bootstrap, Tailwind
-- **DevOps & Tools**: Git, Nginx, AWS
+- **Languages & Frameworks**: Python, Django, FastAPI, JS, React.js
+- **Databases**: PostgreSQL, SQLModel
+- **Frontend**: HTML, CSS, Bootstrap, Tailwind CSS
+- **DevOps & Tools**: AWS, Git, Nginx, Celery, Redis
+- **Others**: RESTful APIs, User Authentication, CSV/PDF/Excel Files Export, CCNA (July 2020- July2023)
 
 ---
 
@@ -17,7 +18,7 @@ I'm a backend-focused developer currently transitioning from coffee industry int
 
 - 🔗 [Portfolio Website](https://gurdeepkumar.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/gurdeep-kumar/)
-- 📧 [Email](mailto:gksyntax@hotmail.com)
+- 📧 [Email](mailto:mgrdxb@hotmail.com)
 
 ---
 
