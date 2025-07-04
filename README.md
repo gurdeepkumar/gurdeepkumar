@@ -1,6 +1,6 @@
 ## Hi,
 
-I'm a software developer currently transitioning from the coffee industry into the tech world. I'm actively building projects and working toward my first developer role. My journey began with C and C++ in school, followed by a three-year diploma in Computer Science. In 2020, I earned my CCNA certification. In January 2025, I decided to return to tech, completed Harvard's CS50 Python course on edX, and have been building projects ever since.
+I'm a software developer currently transitioning from coffee industry to tech world. I'm actively building projects and working toward my first developer role. My journey began with C and C++ in school (2008), followed by a three-year diploma in Computer Science (2010-2013). In 2020, I earned CCNA certification. In January 2025, I decided to return to tech, completed Harvard's CS50 Python course on edX, and have been building projects ever since.
 
 ---
 
